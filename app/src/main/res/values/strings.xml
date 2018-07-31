@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sweet Finance</string>
+    <string name="labelBalance">Saldo:</string>
+    <string name="balance">$0</string>
+    <string name="init">Inicialice un nuevo balance</string>
+    <string name="save_percent">Configure un porcentaje de ahorro</string>
+    <string name="new_income">$0</string>
+    <string name="category_conf">Configure las categorias de gastos</string>
+</resources>
